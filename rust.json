@@ -11,8 +11,8 @@
     //      "$2"
     //  ],
     //  "description": "Log output to console"
-	// }
-	// On Mac: /Users/$USER/Library/Application Support/Code/User/snippets
+    // }
+    // On Mac: /Users/$USER/Library/Application Support/Code/User/snippets
     "If_Let_Err": {
         "prefix": "iferr",
         "body": [
